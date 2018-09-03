@@ -1,0 +1,16 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url("../img/background.jpg") no-repeat fixed;
+  background-color:#333;
+  color: #BBB;
+}
+#title { 
+}
+#content {
+	border-radius: 6px;
+	border: 1px solid #111;
+	background-color: #222;
+}
+.navbar {
+	opacity: 0.9;
+}
