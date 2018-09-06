@@ -71,7 +71,7 @@ Les Officiers ont une IRL et peuvent parfois mettre quelques jours à valider ou
 Bonne chance aux postulants !
 
 
-## Mini-charte de raid
+## 11. Mini-charte de raid
 
 Les Sapins de la horde, sont constitués de différents joueurs aux disponibilités variées, avec une mentalité de casual sérieux.
 Le Théorycrafting n'est pas nécessaire mais observer un certain sérieux, comme laisser la parole au RL est requis pour participer aux raids :

@@ -1,4 +1,6 @@
-#PROLOGUE (Auteur Fredator)
+# L'histoire des Sapins de la Horde
+## Prologue
+_(Auteur Fredator)_
 
 Il faut avant toutes choses, planter le décor et replacer les événements dans leur contexte pour appréhender la genèse
 de ce que sera une grande aventure : la naissance des Sapins.
@@ -30,7 +32,8 @@ S'en est suivi un rare délire, où dans l'adversité, wipe à wipe, on y retour
 Les Space Sapins étaient nés !
 
 
-#la génèse des Space Sapin (Auteur: Kasta)
+## La génèse des Space Sapin
+_(Auteur: Kasta)_
 
 L'orifµgine est liée à un élément très important introduit par Funcom à l'époque. On lootait parfois des items un peu bizarre dans ce jeu, genre tu ouvrais un coffre de la taille d'une petite male et tu y trouvais un frigo, une plante, ou autre...
 Le truc fun c'est que ces objets pouvaient être posé sur le sol, ce qui donnait parfois des trucs rigolos: tu partais afk bio en pleine mission et quand tu revenais tes potes avaient aménagé toute la pièce avec des fournitures. On avait même un spot de rassemblement près d'une ville neutre (y avait 3 factions: les gentils aka les Omnitek, les méchants aka les Clanners et les stupides neutres) où l'on se réunissait régulièrement et sur lequel on posait tous les items les plus débiles (bon tout les items posés au sol disparaissaient après 5 min si on ne les reprenaient pas).
