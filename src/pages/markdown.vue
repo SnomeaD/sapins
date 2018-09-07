@@ -19,12 +19,6 @@ export default {
             require: true
         }
     },
-    data () {
-        return {
-            error: null,
-            toon: null
-        };
-    },
     computed: {
         compiledMarkdown: function () {
             const file = require(/* webpackMode: "eager" */ `../data/${this.filename}.md`);

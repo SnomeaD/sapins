@@ -7,7 +7,6 @@ DE files #
 # Bower/Node library and generated folder #
 ###########################################
 .build
-dist
 node_modules
 public/components
 

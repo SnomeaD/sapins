@@ -24,6 +24,13 @@
                         </li>
                     </ul>
                 </div>
+                <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
+                    <li class="nav-item">
+                        <a class="nav-link">
+                            <a href='https://discord.gg/PCNVJRD' target="_blank"><img src="./img/Discord-Logo-White.png" height="32px"></a>
+                        </a>
+                    </li>
+                </ul>
             </nav>
             <div class="container content">
                 <!-- Content -->
@@ -40,12 +47,14 @@ import VueRouter from 'vue-router';
 // Pages
 const home = () => import(/* webpackChunkName: "home" */'./pages/home.vue');
 const markdown = () => import(/* webpackChunkName: "markdown" */'./pages/markdown.vue');
+const pantheon = () => import(/* webpackChunkName: "pantheon" */'./pages/pantheon.vue');
 
 // List of vue addon that we use.
 Vue.use(VueRouter);
 // Route declaration
 const routes = [
     { path: '/', name: 'home', component: home, props: false },
+    { path: '/pantheon', name: 'pantheon', component: pantheon, props: false },
     { 
         path: '/histoire',
         name: 'histoire',
@@ -78,7 +87,8 @@ export default {
             pages: [
                 {description: 'L\'Histoire', routeName: 'histoire'},
                 {description: 'La Charte', routeName: 'charte'},
-                {description: 'Le Recrutement', routeName: 'recrutement'}
+                {description: 'Le Recrutement', routeName: 'recrutement'},
+                {description: 'Le Panthéon', routeName: 'pantheon'}
             ]
         };
     }  

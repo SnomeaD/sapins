@@ -16,7 +16,7 @@ module.exports = {
     },
     optimization: {
         minimizer: [
-            new UglifyJsPlugin({ /* your config */ })
+            new UglifyJsPlugin({})
         ]
     },
     module: {

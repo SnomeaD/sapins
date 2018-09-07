@@ -1,4 +1,4 @@
-# Charte des Sapins de la Horde
+# La Charte des Sapins de la Horde
 
 _L'ignorance des règles n'est pas une excuse. Tout membre de la Guilde est considéré comme ayant lu et accepté les termes de ce règlement interne._
 

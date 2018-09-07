@@ -27,14 +27,3 @@
         </div>
     </div>
 </template>
-<script>
-export default {
-    data () {
-        return {
-            loading: false,
-            error: null,
-            toon: null
-        };
-    }
-};
-</script>
