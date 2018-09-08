@@ -27,7 +27,7 @@
                 <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
                     <li class="nav-item">
                         <a class="nav-link">
-                            <a href='https://discord.gg/PCNVJRD' target="_blank"><img src="./img/Discord-Logo-White.png" height="32px"></a>
+                            <a href='https://discord.gg/adEwXR5' target="_blank"><img src="./img/Discord-Logo-White.png" height="32px"></a>
                         </a>
                     </li>
                 </ul>

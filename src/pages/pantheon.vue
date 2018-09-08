@@ -1,24 +1,46 @@
 <template>
     <div class="container">
+        <div class="modal fade" id="zoom-screen" tabindex="-1" role="dialog" aria-labelledby="zoom-screen" aria-hidden="true" :class="zoomScreen ? 'show' : ''">
+            <div class="modal-dialog screen-modal" role="document">
+                <img data-dismiss="modal" class="modal-content screen-modal-content" :src="zoomScreen">
+            </div>
+        </div>
          <div id="title" class="container-fluid">
             <div class="text-center"><h1>Le Panthéon</h1></div>
         </div>
         <div id="content" class="container">
-            <div v-for="raid in reversedPantheon">
+            <div v-for="raid in pantheon">
                 <h1 class="text-center">{{ raid.name }}</h1>
                 <div :id="raid.shortname" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
-                        <li
-                            v-for="(boss, index) in raid.bosses"
-                            :data-target="raidLink(raid.shortname)"
-                            :data-slide-to="index"
-                            :class="index===0?'active':''">
-                        </li>
+                        <template v-for="(boss, index) in raid.bosses">
+                            <li
+                                :data-target="raidLink(raid.shortname)"
+                                :data-slide-to="index"
+                                :class="index===0?'active':''">
+                            </li>
+                            <li v-if='boss.screen2'
+                                :data-target="raidLink(raid.shortname)"
+                                :data-slide-to="index++">
+                            </li>
+                        </template>
                     </ol>
                     <div class="carousel-inner border border-dark">
                         <template v-for="(boss, index) in raid.bosses">
                             <div class="carousel-item" :class="index===0?'active':''">
                                 <img class="d-block w-100" :src="imageLink(boss.screen)" :alt="boss.name">
+                                <div class="carousel-caption d-none d-md-block" v-if="['hm','bf','hc'].includes(raid.shortname) || boss.screen === ''">
+                                    <h5>{{ boss.name }}</h5>
+                                    <p>{{ boss.date }}</p>
+                                </div>
+                                <div>
+                                    <a class="carousel-control-center" role="button" data-toggle="modal" data-target="#zoom-screen" v-on:click="zoomScreen = imageLink(boss.screen)">
+                                        <span class="sr-only">Zoom</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="carousel-item" v-if="boss.screen2">
+                                <img class="d-block w-100" :src="imageLink(boss.screen2)" :alt="boss.name">
                                 <div class="carousel-caption d-none d-md-block" v-if="['hm','bf','hc'].includes(raid.shortname) || boss.screen === ''">
                                     <h5>{{ boss.name }}</h5>
                                     <p>{{ boss.date }}</p>
@@ -45,13 +67,9 @@ import pantheon from '../data/pantheon.json';
 export default {
     data () {
         return {
-            pantheon
+            pantheon,
+            zoomScreen: null,
         };
-    },
-    computed: {
-        reversedPantheon () {
-            return this.pantheon.reverse();
-        }
     },
     methods: {
         imageLink (screen) {
@@ -60,7 +78,10 @@ export default {
         },
         raidLink (raid) {
             return '#' + raid;
-        }
+        },
+        zoom (raid) {
+            return '#' + raid;
+        },
     }
 };
 </script>

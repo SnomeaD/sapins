@@ -1,318 +1,388 @@
 [
-    {
-        "name": "Highmaul",
-        "shortname": "hm",
-        "bosses": [{
-            "id": 87444,
-            "name": "Kargath Bladefist",
-            "screen": "Kargath_120314_215451",
-            "date": "2014-12-03"
-        }, {
-            "id": 87447,
-            "name": "The Butcher",
-            "screen": "butcher_121014_223309",
-            "date": "2014-12-10"
-        }, {
-            "id": 87441,
-            "name": "Brackenspore",
-            "screen": "146157fougerme",
-            "date": ""
-        }, {
-            "id": 87446,
-            "name": "Tectus",
-            "screen": "tectus",
-            "date": ""
-        }, {
-            "id": 87449,
-            "name": "Twin Ogron",
-            "screen": "twin",
-            "date": ""
-        }, {
-            "id": 87445,
-            "name": "Ko'ragh",
-            "screen": "korath",
-            "date": ""
-        }, {
-            "id": 87818,
-            "name": "Imperator Mar'gok",
-            "screen": "806199imperator",
-            "date": ""
-        }]
-    }, {
-        "name": "Blackrock Foundry",
-        "shortname": "bf",
-        "bosses": [{
-            "id": 77182,
-            "name": "Oregorger",
-            "screen": "Oregorger_040715_232253",
-            "date": "2015-04-07"
-        }, {
-            "id": 76877,
-            "name": "Gruul",
-            "screen": "704516Grull",
-            "date": ""
-        }, {
-            "id": 76809,
-            "name": "The Blast Furnace",
-            "screen": "haut_fourneau",
-            "date": ""
-        }, {
-            "id": 76974,
-            "name": "Hans'gar and Franzok",
-            "screen": "hansgar_franzok",
-            "date": ""
-        }, {
-            "id": 76814,
-            "name": "Flamebender Ka'graz",
-            "screen": "kagraz",
-            "date": ""
-        }, {
-            "id": 77692,
-            "name": "Kromog",
-            "screen": "kromog",
-            "date": ""
-        }, {
-            "id": 76865,
-            "name": "Beastlord Darmac",
-            "screen": "971537Darmac",
-            "date": ""
-        }, {
-            "id": 76906,
-            "name": "Operator Thogar",
-            "screen": "thogar",
-            "date": ""
-        }, {
-            "id": 77557,
-            "name": "The Iron Maidens",
-            "screen": "ironmaiden",
-            "date": ""
-        }, {
-            "id": 87420,
-            "name": "Blackhand",
-            "screen": "blackhand",
-            "date": ""
-        }]
-    }, {
-        "name": "The Emerald Nightmare",
-        "shortname": "en",
-        "bosses": [{
-            "id": 103160,
-            "name": "Nythendra",
-            "screen": "",
-            "date": ""
-        }, {
-            "id": 111000,
-            "name": "Elerethe Renferal",
-            "screen": "",
-            "date": ""
-        }, {
-            "id": 105393,
-            "name": "Il'gynoth, Heart of Corruption",
-            "screen": "en_ilnygoth",
-            "date": "2016-10-28"
-        }, {
-            "id": 100497,
-            "name": "Ursoc",
-            "screen": "en_ursoc",
-            "date": "2016-10-28"
-        }, {
-            "id": 102679,
-            "name": "Dragons of Nightmare",
-            "screen": "en_dragon_of_nightmare",
-            "date": "2016-10-05"
-        }, {
-            "id": 113534,
-            "name": "Cenarius",
-            "screen": "en_cenarius",
-            "date": "2016-11-15"
-        }, {
-            "id": 103769,
-            "name": "Xavius",
-            "screen": "en_xavius",
-            "date": "2016-11-28"
-        }]
-    }, {
-        "name": "Trial of Valor",
-        "shortname": "tov",
-        "bosses": [{
-            "id": 115323,
-            "name": "Odyn",
-            "screen": "tov_1_odyn",
-            "date": "2017-01-05"
-        }, {
-            "id": 114344,
-            "name": "Guarm",
-            "screen": "tov_2_guarm",
-            "date": "2017-01-05"
-        }, {
-            "id": 93394,
-            "name": "Helya",
-            "screen": "tov_3_helya",
-            "date": "2017-01-17"
-        }]
-    }, {
-        "name": "The Nighthold",
-        "shortname": "nh",
-        "bosses": [{
-            "id": 102263,
-            "name": "Skorpyron",
-            "screen": "nh_skorpyron",
-            "date": "2017-01-30"
-        }, {
-            "id": 104415,
-            "name": "Chronomatic Anomaly",
-            "screen": "nh_chronomatic_anomaly",
-            "date": "2017-01-31"
-        }, {
-            "id": 104288,
-            "name": "Trilliax",
-            "screen": "nh_trilliax",
-            "date": "2017-01-31"
-        }, {
-            "id": 107699,
-            "name": "Spellblade Aluriel",
-            "screen": "nh_aluriel",
-            "date": "2017-03-02"
-        }, {
-            "id": 103685,
-            "name": "Tichondrius",
-            "screen": "nh_tichondrius",
-            "date": "2017-04-03"
-        }, {
-            "id": 101002,
-            "name": "Krosus",
-            "screen": "nh_krosus",
-            "date": "2017-02-28"
-        }, {
-            "id": 104528,
-            "name": "High Botanist Tel'arn",
-            "screen": "nh_bota",
-            "date": "2017-03-13"
-        }, {
-            "id": 103758,
-            "name": "Star Augur Etraeus",
-            "screen": "nh_star_augur",
-            "date": "2017-03-07"
-        }, {
-            "id": 110965,
-            "name": "Grand Magistrix Elisande",
-            "screen": "nh_elisande",
-            "date": "2017-04-03"
-        }, {
-            "id": 105503,
-            "name": "Gul'dan",
-            "screen": "nh_guldan_hm",
-            "screen2": "nh_guldan",
-            "date": "2017-04-12"
-        }]
-    }, {
-        "name": "Tomb of Sargeras",
-        "shortname": "tos",
-        "bosses": [{
-            "id": 115844,
-            "name": "Goroth",
-            "screen": "tos_goroth_2017-07-03",
-            "date": "2017-07-03"
-        }, {
-            "id": 116689,
-            "name": "Demonic Inquisition",
-            "screen": "tos_inquisition_2017-07-03",
-            "date": "2017-07-03"
-        }, {
-            "id": 116407,
-            "name": "Harjatan",
-            "screen": "tos_harjatan_2017-07-03",
-            "date": "2017-07-03"
-        }, {
-            "id": 118523,
-            "name": "Sisters of the Moon",
-            "screen": "tos_sister_2017-07-20",
-            "date": "2017-07-20"
-        }, {
-            "id": 115767,
-            "name": "Mistress Sassz'ine",
-            "screen": "tos_sasszine_2017-07-20",
-            "date": "2017-07-20"
-        }, {
-            "id": 118460,
-            "name": "The Desolate Host",
-            "screen": "tos_host_2017-07-24",
-            "date": "2017-07-24"
-        }, {
-            "id": 118289,
-            "name": "Maiden of Vigilance",
-            "screen": "tos_vigilance_2017-08-01",
-            "date": "2017-08-01"
-        }, {
-            "id": 116939,
-            "name": "Fallen Avatar",
-            "screen": "tos_avatar_2017-08-28",
-            "date": "2017-08-28"
-        }, {
-            "id": 117269,
-            "name": "Kil'jaeden",
-            "screen": "tos_kiljaeden_2017-09-21",
-            "screen-2": "tos_kiljaeden_2017-10-02",
-            "date": "2017-09-21"
-        }]
-    }, {
-        "name": "Antorus, the Burning Throne",
-        "shortname": "ant",
-        "bosses": [{
-            "id": 122450,
-            "name": "Garothi Worldbreaker",
-            "screen": "",
-            "date": "2017-12-04"
-        }, {
-            "id": 122477,
-            "name": "Felhounds of Sargeras",
-            "screen": "",
-            "date": "2017-12-04"
-        }, {
-            "id": 122367,
-            "name": "Antoran High Command",
-            "screen": "ant_antoran_high_command",
-            "date": "2017-12-18"
-        }, {
-            "id": 122104,
-            "name": "Portal Keeper Hasabel",
-            "screen": "ant_portal_keeper_hasabel",
-            "date": "2017-12-18"
-        }, {
-            "id": 122500,
-            "name": "Eonar the Life-Binder",
-            "screen": "ant_eonar",
-            "date": "2017-12-18"
-        }, {
-            "id": 124158,
-            "name": "Imonar the Soulhunter",
-            "screen": "ant_imonar",
-            "date": "2017-12-18"
-        }, {
-            "id": 122578,
-            "name": "Kin'garoth",
-            "screen": "ant_aggramar",
-            "date": "2018-01-15"
-        }, {
-            "id": 122366,
-            "name": "Varimathras",
-            "screen": "ant_varimathras",
-            "date": "2018-01-08"
-        }, {
-            "id": 122468,
-            "name": "The Coven of Shivarra",
-            "screen": "ant_coven_of_shivarra",
-            "date": "2018-01-15"
-        }, {
-            "id": 121975,
-            "name": "Aggramar",
-            "screen": "ant_aggramar",
-            "date": "2018-01-15"
-        }, {
-            "id": 124828,
-            "name": "Argus the Unmaker",
-            "screen": "ant_argus",
-            "date": "2018-02-05"
-        }]
-}
+  {
+    "name": "Antorus, the Burning Throne",
+    "shortname": "ant",
+    "bosses": [
+      {
+        "id": 122450,
+        "name": "Garothi Worldbreaker",
+        "screen": "",
+        "date": "2017-12-04"
+      },
+      {
+        "id": 122477,
+        "name": "Felhounds of Sargeras",
+        "screen": "",
+        "date": "2017-12-04"
+      },
+      {
+        "id": 122367,
+        "name": "Antoran High Command",
+        "screen": "ant_antoran_high_command",
+        "date": "2017-12-18"
+      },
+      {
+        "id": 122104,
+        "name": "Portal Keeper Hasabel",
+        "screen": "ant_portal_keeper_hasabel",
+        "date": "2017-12-18"
+      },
+      {
+        "id": 122500,
+        "name": "Eonar the Life-Binder",
+        "screen": "ant_eonar",
+        "date": "2017-12-18"
+      },
+      {
+        "id": 124158,
+        "name": "Imonar the Soulhunter",
+        "screen": "ant_imonar",
+        "date": "2017-12-18"
+      },
+      {
+        "id": 122578,
+        "name": "Kin'garoth",
+        "screen": "ant_aggramar",
+        "date": "2018-01-15"
+      },
+      {
+        "id": 122366,
+        "name": "Varimathras",
+        "screen": "ant_varimathras",
+        "date": "2018-01-08"
+      },
+      {
+        "id": 122468,
+        "name": "The Coven of Shivarra",
+        "screen": "ant_coven_of_shivarra",
+        "date": "2018-01-15"
+      },
+      {
+        "id": 121975,
+        "name": "Aggramar",
+        "screen": "ant_aggramar",
+        "date": "2018-01-15"
+      },
+      {
+        "id": 124828,
+        "name": "Argus the Unmaker",
+        "screen": "ant_argus",
+        "date": "2018-02-05"
+      }
+    ]
+  },
+  {
+    "name": "Tomb of Sargeras",
+    "shortname": "tos",
+    "bosses": [
+      {
+        "id": 115844,
+        "name": "Goroth",
+        "screen": "tos_goroth_2017-07-03",
+        "date": "2017-07-03"
+      },
+      {
+        "id": 116689,
+        "name": "Demonic Inquisition",
+        "screen": "tos_inquisition_2017-07-03",
+        "date": "2017-07-03"
+      },
+      {
+        "id": 116407,
+        "name": "Harjatan",
+        "screen": "tos_harjatan_2017-07-03",
+        "date": "2017-07-03"
+      },
+      {
+        "id": 118523,
+        "name": "Sisters of the Moon",
+        "screen": "tos_sister_2017-07-20",
+        "date": "2017-07-20"
+      },
+      {
+        "id": 115767,
+        "name": "Mistress Sassz'ine",
+        "screen": "tos_sasszine_2017-07-20",
+        "date": "2017-07-20"
+      },
+      {
+        "id": 118460,
+        "name": "The Desolate Host",
+        "screen": "tos_host_2017-07-24",
+        "date": "2017-07-24"
+      },
+      {
+        "id": 118289,
+        "name": "Maiden of Vigilance",
+        "screen": "tos_vigilance_2017-08-01",
+        "date": "2017-08-01"
+      },
+      {
+        "id": 116939,
+        "name": "Fallen Avatar",
+        "screen": "tos_avatar_2017-08-28",
+        "date": "2017-08-28"
+      },
+      {
+        "id": 117269,
+        "name": "Kil'jaeden",
+        "screen": "tos_kiljaeden_2017-09-21",
+        "screen-2": "tos_kiljaeden_2017-10-02",
+        "date": "2017-09-21"
+      }
+    ]
+  },
+  {
+    "name": "The Nighthold",
+    "shortname": "nh",
+    "bosses": [
+      {
+        "id": 102263,
+        "name": "Skorpyron",
+        "screen": "nh_skorpyron",
+        "date": "2017-01-30"
+      },
+      {
+        "id": 104415,
+        "name": "Chronomatic Anomaly",
+        "screen": "nh_chronomatic_anomaly",
+        "date": "2017-01-31"
+      },
+      {
+        "id": 104288,
+        "name": "Trilliax",
+        "screen": "nh_trilliax",
+        "date": "2017-01-31"
+      },
+      {
+        "id": 107699,
+        "name": "Spellblade Aluriel",
+        "screen": "nh_aluriel",
+        "date": "2017-03-02"
+      },
+      {
+        "id": 103685,
+        "name": "Tichondrius",
+        "screen": "nh_tichondrius",
+        "date": "2017-04-03"
+      },
+      {
+        "id": 101002,
+        "name": "Krosus",
+        "screen": "nh_krosus",
+        "date": "2017-02-28"
+      },
+      {
+        "id": 104528,
+        "name": "High Botanist Tel'arn",
+        "screen": "nh_bota",
+        "date": "2017-03-13"
+      },
+      {
+        "id": 103758,
+        "name": "Star Augur Etraeus",
+        "screen": "nh_star_augur",
+        "date": "2017-03-07"
+      },
+      {
+        "id": 110965,
+        "name": "Grand Magistrix Elisande",
+        "screen": "nh_elisande",
+        "date": "2017-04-03"
+      },
+      {
+        "id": 105503,
+        "name": "Gul'dan",
+        "screen": "nh_guldan_hm",
+        "screen2": "nh_guldan",
+        "date": "2017-04-12"
+      }
+    ]
+  },
+  {
+    "name": "Trial of Valor",
+    "shortname": "tov",
+    "bosses": [
+      {
+        "id": 115323,
+        "name": "Odyn",
+        "screen": "tov_1_odyn",
+        "date": "2017-01-05"
+      },
+      {
+        "id": 114344,
+        "name": "Guarm",
+        "screen": "tov_2_guarm",
+        "date": "2017-01-05"
+      },
+      {
+        "id": 93394,
+        "name": "Helya",
+        "screen": "tov_3_helya",
+        "date": "2017-01-17"
+      }
+    ]
+  },
+  {
+    "name": "The Emerald Nightmare",
+    "shortname": "en",
+    "bosses": [
+      {
+        "id": 103160,
+        "name": "Nythendra",
+        "screen": "",
+        "date": ""
+      },
+      {
+        "id": 111000,
+        "name": "Elerethe Renferal",
+        "screen": "",
+        "date": ""
+      },
+      {
+        "id": 105393,
+        "name": "Il'gynoth, Heart of Corruption",
+        "screen": "en_ilnygoth",
+        "date": "2016-10-28"
+      },
+      {
+        "id": 100497,
+        "name": "Ursoc",
+        "screen": "en_ursoc",
+        "date": "2016-10-28"
+      },
+      {
+        "id": 102679,
+        "name": "Dragons of Nightmare",
+        "screen": "en_dragon_of_nightmare",
+        "date": "2016-10-05"
+      },
+      {
+        "id": 113534,
+        "name": "Cenarius",
+        "screen": "en_cenarius",
+        "date": "2016-11-15"
+      },
+      {
+        "id": 103769,
+        "name": "Xavius",
+        "screen": "en_xavius",
+        "date": "2016-11-28"
+      }
+    ]
+  },
+  {
+    "name": "Blackrock Foundry",
+    "shortname": "bf",
+    "bosses": [
+      {
+        "id": 77182,
+        "name": "Oregorger",
+        "screen": "Oregorger_040715_232253",
+        "date": "2015-04-07"
+      },
+      {
+        "id": 76877,
+        "name": "Gruul",
+        "screen": "704516Grull",
+        "date": ""
+      },
+      {
+        "id": 76809,
+        "name": "The Blast Furnace",
+        "screen": "haut_fourneau",
+        "date": ""
+      },
+      {
+        "id": 76974,
+        "name": "Hans'gar and Franzok",
+        "screen": "hansgar_franzok",
+        "date": ""
+      },
+      {
+        "id": 76814,
+        "name": "Flamebender Ka'graz",
+        "screen": "kagraz",
+        "date": ""
+      },
+      {
+        "id": 77692,
+        "name": "Kromog",
+        "screen": "kromog",
+        "date": ""
+      },
+      {
+        "id": 76865,
+        "name": "Beastlord Darmac",
+        "screen": "971537Darmac",
+        "date": ""
+      },
+      {
+        "id": 76906,
+        "name": "Operator Thogar",
+        "screen": "thogar",
+        "date": ""
+      },
+      {
+        "id": 77557,
+        "name": "The Iron Maidens",
+        "screen": "ironmaiden",
+        "date": ""
+      },
+      {
+        "id": 87420,
+        "name": "Blackhand",
+        "screen": "blackhand",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "name": "Highmaul",
+    "shortname": "hm",
+    "bosses": [
+      {
+        "id": 87444,
+        "name": "Kargath Bladefist",
+        "screen": "Kargath_120314_215451",
+        "date": "2014-12-03"
+      },
+      {
+        "id": 87447,
+        "name": "The Butcher",
+        "screen": "butcher_121014_223309",
+        "date": "2014-12-10"
+      },
+      {
+        "id": 87441,
+        "name": "Brackenspore",
+        "screen": "146157fougerme",
+        "date": ""
+      },
+      {
+        "id": 87446,
+        "name": "Tectus",
+        "screen": "tectus",
+        "date": ""
+      },
+      {
+        "id": 87449,
+        "name": "Twin Ogron",
+        "screen": "twin",
+        "date": ""
+      },
+      {
+        "id": 87445,
+        "name": "Ko'ragh",
+        "screen": "korath",
+        "date": ""
+      },
+      {
+        "id": 87818,
+        "name": "Imperator Mar'gok",
+        "screen": "806199imperator",
+        "date": ""
+      }
+    ]
+  }
 ]

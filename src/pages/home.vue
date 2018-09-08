@@ -21,7 +21,7 @@
             <div class="row">
                 <div class="col-sm text-center">
                     <br /><br /><h1>Rejoignez nous !</h1>
-                    <a href='https://discord.gg/PCNVJRD' target="_blank"><img src="../img/discord.png"></a>
+                    <a href='https://discord.gg/adEwXR5' target="_blank"><img src="../img/discord.png"></a>
                 </div>
             </div>
         </div>
