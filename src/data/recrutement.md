@@ -10,7 +10,7 @@ Pour nous WoW est un loisir comme un autre et non une fin en soi. C'est un bon p
 
 Notre vision du jeu:
 
-Notre axe principal est le PvE: quêtes, instances mais aussi le PvE HL. Vous pouvez suivre notre progression sur notre onglet news: (en haut sur le menu du forum) ou en suivant ce lien: http://forum.sapins-guilde.fr/.
+Notre axe principal est le PvE: quêtes, instances mais aussi le PvE HL. Vous pouvez suivre notre progression sur notre onglet Panthéon
 Nous faisons un peu de PvP et certains de nos membres sont assez bons dans ce domaine. Pas de role-play par contre mais beaucoup de déconne :D
 Nous sommes ce que l'on pourrait appeler des "Casuals sérieux". C'est à dire que même si nous ne sommes pas des "furieux" en matière de PvE, nous avons quand même l'ambition de nous confronter aux challenges proposés par le jeu. On le fait à notre rythme, dans la mesure de nos moyens avec un peu de discipline et de sérieux.
 On maintient une bonne entraide entre nos membres car on tient Ã maintenir un effectif aussi homogène que possible et àce que chacun puisse participer à tous les events organisés par la guilde.
@@ -44,48 +44,30 @@ Si vous avez répondu NON à l'une de ces questions, nous vous déconseillons de
 Sinon, voilà enfin le formulaire qu'il vous faudra remplir pour postuler.
 
 INSTRUCTIONS:
-1. N'oubliez pas de lire la charte de guilde => viewtopic.php?f=3&t=3
-2. Copier le texte formaté ci dessous
-3. Créer un nouveau sujet avec le titre: "Pseudo - Classe - Devenir Sapin" dans la section Recrutement du forum
-4. Coller le texte dans ce nouveau sujet
-5. Compléter correctement le formulaire
+1. N'oubliez pas de lire la charte de guilde
+2. Passez sur notre Discord (lien en haut a droite)
+3. Annoncez-vous sur le chan #recrutement
+4. Un officier va s'occuper de vous!
 
 Vous pouvez vous contenter de ce strict minimum mais sachez qu'un post de candidature bien étoffé et argumenté est toujours un gros plus.
 Dernier conseil: SOIGNEZ VOTRE ORTHOGRAPHE. Ça pique les yeux et ne donne pas l'impression que vous avez porté assez d'attention à votre post de candidature.
 
-(Un entretien TS peut-être demandé par le postulant, dans ce cas-là il est recommandé de faire une petite présentation via le forum)
+(Un entretien vocale peut-être demandé par le postulant, dans ce cas-là il est recommandé de faire une petite présentation sur le chan #recrutement)
 
-Code: Select all
+Les informations suivantes vous seront demandée: 
 
-    
-    
-    [b][color=orange]° Infos IG[/color][/b]
-    [b]- Pseudo :[/b] Votre texte
-    [b]- Personnage(s)[/b] pour chaque personnage
-    [b]    - Nom : [/b] Votre texte
-    [b]    - Niveau : [/b] Votre texte
-    [b]    - Métiers : [/b] Votre texte
-    [b]    - Equipement & Template : [/b] liens vers l'armurerie de wow
-    [b]- Liste rapide des autres rerolls actifs (nom/classe/niveau) :[/b] Votre texte
-    [b]- Votre Parrain Sapin : [/b] Votre texte
-    [b]- Combien de Palanains prenez-vous au petit-déjeuner ? [/b] Votre texte
-
-    [b][color=orange]° Infos personnelles/IRL[/color][/b]
-
-    [b]- Prénom :[/b] Votre texte
-    [b]- Age :[/b] Votre texte
-    [b]- Sexe :[/b] Votre texte
-    [b]- Activité professionnelle :[/b] Votre texte
-    [b]- Ville/Région :[/b] Votre texte
-
-    [b][color=orange]° Infos générales[/color][/b]
-
-    [b]- Temps de jeu disponible/prévu :[/b] Votre texte
-    [b]- Comment nous avez-vous connu :[/b] Votre texte
-    [b]- De quelle guilde venez vous et pourquoi la quitter :[/b] Votre texte
-    [b]- Avez vous postulé à  d'autres guildes :[/b] non
-    [b]- Pourquoi avez-vous choisi "Les Sapins de la Horde" / Motivations ?[/b] Votre texte
-    [b]- Acceptez-vous notre Charte Globale [/b] Votre texte
+- Pseudo du perso qui postule
+- Liens vers l'armurerie de celui-ci
+- Liste rapide des autres rerolls actifs
+- Votre Parrain Sapin, si il y a 
+- Combien de Palanains prenez-vous au petit-déjeuner
+- ASV, comme à l'époque sur caramail
+- Temps de jeu disponible/prévu
+- Comment nous avez-vous connu
+- De quelle guilde venez vous et pourquoi la quitter
+- Avez vous postulé à  d'autres guildes :
+- Pourquoi avez-vous choisi "Les Sapins de la Horde" / Motivations ?
+- Acceptez-vous notre Charte Globale
 
 Ensuite, dans l'ordre:
 
