@@ -28,7 +28,7 @@ Tout le monde est consulté sur les décisions importantes de la guilde et sur l
 Que demande-t-on à aux Sapins ?
 
 Au quotidien: de ne pas se prendre au sérieux, de s'entraider, de respecter les autres joueurs.
-Pour les raids, nous sommes assez organisés. Nous avons un agenda pour organiser nos sorties oÃ¹ les gens peuvent s'inscrire. Nous demandons aux gens de venir préparés pour les sorties (répa, bandages, popo, etc...) et de faire preuve de discipline et de sérieux par respect pour les participants et les organisateurs. C'est ça notre côté "Casual Sérieux".
+Pour les raids, nous sommes assez organisés. Nous avons un agenda pour organiser nos sorties et les gens peuvent s'inscrire. Nous demandons aux gens de venir préparés pour les sorties (répa, popo, etc...) et de faire preuve de discipline et de sérieux par respect pour les participants et les organisateurs. C'est ça notre côté "Casual Sérieux".
 
 Et vous, avez-vous le profil ?
 
