@@ -46,8 +46,8 @@ Si vous souhaitez organiser une activité précise, postez-la sur Discord. Les r
 Grades en jeu :
 * Vieille Branche: Ancien membre sapin, disparu sous terre depuis
 * Jeune Pousse: Membre venant d'être accepté dans la guilde, accès restreint à la banque de guilde
-* Reroll: Reroll des membres, accès restreint à la banque de guilde
-* Reroll Grand Sapin: Reroll de Grand Sapins, accès total à la banque de guilde, droits de guildage et de promotion
+* Pin: Reroll des membres, accès restreint à la banque de guilde
+* Grand Pin: Reroll de Grand Sapins, accès total à la banque de guilde, droits de guildage et de promotion
 * Conifère: Membres actifs de la guilde mais ne désirant/pouvant pas raider, accès restreint à la banque de guilde
 * Sapin: Membres actifs de la guilde, accès à la banque de guilde pour raid
 * Grand Sapin: Officier, accès total à la banque de guilde, droits de guildage et de promotion
