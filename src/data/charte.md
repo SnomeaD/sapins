@@ -84,8 +84,8 @@ Bonne chance aux postulants !
 
 Les Sapins de la horde, sont constitués de différents joueurs aux disponibilités variées, avec une mentalité de casual sérieux.
 Le Théorycrafting n'est pas nécessaire mais observer un certain sérieux, comme laisser la parole au RL est requis pour participer aux raids :
-* Gaver de Flacon magique, tu seras.
+* Gavé de Flacon magique, tu seras.
 * Sur le festin, tu cliqueras
-* Équiper pour le raid désigné, tu seras.
+* Équipé pour le raid désigné, tu seras.
 * Les Stratégies des différents boss, tu regarderas.
 * Les directives du Raid leader, tu suivras.
