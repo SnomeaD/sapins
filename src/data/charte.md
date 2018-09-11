@@ -45,12 +45,19 @@ Si vous souhaitez organiser une activité précise, postez-la sur Discord. Les r
 
 Grades en jeu :
 * Vieille Branche: Ancien membre sapin, disparu sous terre depuis
-* Jeune Pousse : Membre venant d'être accepté dans la guilde, accès restreint à la banque de guilde
-* Conifère : Membres actifs de la guilde mais ne désirant/pouvant pas raider, accès restreint à la banque de guilde
-* Sapin : Membres actifs de la guilde, accès à la banque de guilde pour raid
-* Grand Sapin : Officier, accès total à la banque de guilde, droits de guildage et de promotion
-* Sapin Blanc : GM, accès total à la banque de guilde, droits de guildage et de promotion. Gestion de l’onglet de guilde.
+* Jeune Pousse: Membre venant d'être accepté dans la guilde, accès restreint à la banque de guilde
+* Reroll: Reroll des membres, accès restreint à la banque de guilde
+* Reroll Grand Sapin: Reroll de Grand Sapins, accès total à la banque de guilde, droits de guildage et de promotion
+* Conifère: Membres actifs de la guilde mais ne désirant/pouvant pas raider, accès restreint à la banque de guilde
+* Sapin: Membres actifs de la guilde, accès à la banque de guilde pour raid
+* Grand Sapin: Officier, accès total à la banque de guilde, droits de guildage et de promotion
+* Sapin Blanc: GM, accès total à la banque de guilde, droits de guildage et de promotion. Gestion de l’onglet de guilde.
 L'accès au statut d’Officier Sapin et d’Officier GM est réglementé par le biais de discussions entre les Officiers en place. On accède au statut de Jeune Pousse par le biais du processus de recrutement. On est rétrogradé au status de vieille branche lors d'une disparition soudaine et/ou prolongée
+
+Grades sur Discord: 
+* Sapin: Membre de la guilde
+* Bonsaï: Amis de la guilde
+* Grand Sapin: Officier et GM, accès aux parties _off_
 
 Les Officiers, après discussion peuvent accorder le statut de Sapin. A l'inverse, à fin de sanction (ou de réorganisation), des Officiers, peuvent diminuer le statut d'un membre de la guilde (ou l'exclure définitivement).
 
