@@ -81,7 +81,7 @@ export default {
         },
         zoom (raid) {
             return '#' + raid;
-        },
+        }
     }
 };
 </script>

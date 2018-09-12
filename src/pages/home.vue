@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div id="title" class="container-fluid">
-            <div class="text-center"><img src="../img/logo.png"></div>
+            <div class="text-center"><img class="img-fluid" src="../img/logo.png"></div>
         </div>
         <div id="content" class="container">
             <div class="row">
@@ -21,7 +21,7 @@
             <div class="row">
                 <div class="col-sm text-center">
                     <br /><br /><h1>Rejoignez nous !</h1>
-                    <a href='https://discord.gg/adEwXR5' target="_blank"><img src="../img/discord.png"></a>
+                    <a href='https://discord.gg/adEwXR5' target="_blank"><img class="img-fluid" src="../img/discord.png"></a>
                 </div>
             </div>
         </div>
