@@ -1,5 +1,36 @@
 [
   {
+    "name": "Uldir",
+    "shortname": "ul",
+    "bosses": [
+      {
+        "id": 133298,
+        "name": "Fetid Devourer",
+        "screen": "ul_fetid_devourer_hm",
+        "date": "2018-09-17"
+      },
+      {
+        "id": 135452,
+        "name": "MOTHER",
+        "screen": "ul_mother_hm",
+        "date": "2018-09-17"
+      },
+      {
+        "id": 137119,
+        "name": "Taloc",
+        "screen": "ul_taloc_hm",
+        "date": "2018-09-17"
+      },
+      {
+        "id": 132998,
+        "name": "G'huun",
+        "screen": "ul_ghuun_nm",
+        "screen2": "",
+        "date": ""
+      }
+    ]
+  },
+  {
     "name": "Antorus, the Burning Throne",
     "shortname": "ant",
     "bosses": [

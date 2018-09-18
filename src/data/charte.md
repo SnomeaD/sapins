@@ -48,7 +48,7 @@ Grades en jeu :
 * Jeune Pousse: Membre venant d'être accepté dans la guilde, accès restreint à la banque de guilde
 * Pin: Reroll des membres, accès restreint à la banque de guilde
 * Grand Pin: Reroll de Grand Sapins, accès total à la banque de guilde, droits de guildage et de promotion
-* Conifère: Membres actifs de la guilde mais ne désirant/pouvant pas raider, accès restreint à la banque de guilde
+* Cyprès: Membres actifs de la guilde mais ne désirant/pouvant pas raider, accès restreint à la banque de guilde
 * Sapin: Membres actifs de la guilde, accès à la banque de guilde pour raid
 * Grand Sapin: Officier, accès total à la banque de guilde, droits de guildage et de promotion
 * Sapin Blanc: GM, accès total à la banque de guilde, droits de guildage et de promotion. Gestion de l’onglet de guilde.
