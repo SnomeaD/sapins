@@ -48,6 +48,7 @@ import VueRouter from 'vue-router';
 const home = () => import(/* webpackChunkName: "home" */'./pages/home.vue');
 const markdown = () => import(/* webpackChunkName: "markdown" */'./pages/markdown.vue');
 const pantheon = () => import(/* webpackChunkName: "pantheon" */'./pages/pantheon.vue');
+const ressource = () => import(/* webpackChunkName: "ressource" */'./pages/ressource.vue');
 
 // List of vue addon that we use.
 Vue.use(VueRouter);
@@ -73,6 +74,7 @@ const routes = [
         component: markdown,
         props: { filename: 'recrutement' }
     },
+    { path: '/ressource', name: 'ressource', component: ressource, props: false },
 ];
 
 const router = new VueRouter({
@@ -88,7 +90,8 @@ export default {
                 {description: 'L\'Histoire', routeName: 'histoire'},
                 {description: 'La Charte', routeName: 'charte'},
                 {description: 'Le Recrutement', routeName: 'recrutement'},
-                {description: 'Le Panthéon', routeName: 'pantheon'}
+                {description: 'Le Panthéon', routeName: 'pantheon'},
+                {description: 'Les Ressources', routeName: 'ressource'}
             ]
         };
     }  
