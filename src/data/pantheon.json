@@ -4,6 +4,12 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 134445,
+        "name": "Zek'voz, Herald of N'zoth",
+        "screen": "ul_zekvoz_hm",
+        "date": "2018-09-24"
+      },
+      {
         "id": 133298,
         "name": "Fetid Devourer",
         "screen": "ul_fetid_devourer_hm",
