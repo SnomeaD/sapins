@@ -69,10 +69,16 @@
                     <a href="https://www.mmo-champion.com/" target="_blank">
                         <img class="img-fluid logo-ressource logo-ressource-large" src="../img/mmo-champion.png">MMO Champion
                     </a><br />
+                    <a href="https://www.icy-veins.com/wow/" target="_blank">
+                        <img class="img-fluid logo-ressource logo-ressource-large" src="../img/icy-veins-logo.png">Icy Veins
+                    </a><br />
                 </div>
                 <div class="col-sm">
                     <a href="https://worldofwarcraft.judgehype.com/" target="_blank">
                         <img class="img-fluid logo-ressource logo-ressource-large" src="../img/judgehype.png">JudgeHype
+                    </a><br />
+                    <a href="https://www.mamytwink.com/" target="_blank">
+                        <img class="img-fluid logo-ressource logo-ressource-large" src="../img/banner-mamytwink-tondu.png">Mamytwink
                     </a><br />
                     <a href="https://wago.io/" target="_blank">
                         <img class="img-fluid logo-ressource logo-ressource-large" src="../img/wago.png">wago.io
