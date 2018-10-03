@@ -13,7 +13,7 @@ Notre vision du jeu:
 Notre axe principal est le PvE: quêtes, instances mais aussi le PvE HL. Vous pouvez suivre notre progression sur notre onglet Panthéon
 Nous faisons un peu de PvP et certains de nos membres sont assez bons dans ce domaine. Pas de role-play par contre mais beaucoup de déconne :D
 Nous sommes ce que l'on pourrait appeler des "Casuals sérieux". C'est à dire que même si nous ne sommes pas des "furieux" en matière de PvE, nous avons quand même l'ambition de nous confronter aux challenges proposés par le jeu. On le fait à notre rythme, dans la mesure de nos moyens avec un peu de discipline et de sérieux.
-On maintient une bonne entraide entre nos membres car on tient Ã maintenir un effectif aussi homogène que possible et àce que chacun puisse participer à tous les events organisés par la guilde.
+On maintient une bonne entraide entre nos membres car on tient à maintenir un effectif aussi homogène que possible et à ce que chacun puisse participer à tous les events organisés par la guilde.
 On entretient également de bonnes relations avec de nombreuses guildes du serveur avec lesquelles on a plaisir à jouer.
 
 Le profil de nos membres:

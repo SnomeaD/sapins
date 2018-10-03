@@ -4,6 +4,12 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 134442,
+        "name": "Vectis",
+        "screen": "ul_vectis_hm",
+        "date": "2018-10-01"
+      },
+      {
         "id": 134445,
         "name": "Zek'voz, Herald of N'zoth",
         "screen": "ul_zekvoz_hm",
