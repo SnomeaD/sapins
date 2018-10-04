@@ -4,6 +4,18 @@ body {
     background-color:#333;
     color: #BBB;
 }
+::selection {
+    background: #339900; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #339900; /* Gecko Browsers */
+}
+a {
+    color: #669933;
+}
+a:hover {
+    color: #99ccff;
+}
 #title {
     color:#333;
     padding: 10px;
@@ -55,10 +67,4 @@ body {
 }
 .logo-ressource-large {
     width: 128px;
-}
-a {
-    color: #99ccff;
-}
-a:hover {
-    color: #0b5588;
 }
