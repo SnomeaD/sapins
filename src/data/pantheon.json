@@ -4,6 +4,12 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 138967,
+        "name": "Zul, Reborn",
+        "screen": "ul_zul_hm",
+        "date": "2018-10-08"
+      },
+      {
         "id": 134442,
         "name": "Vectis",
         "screen": "ul_vectis_hm",
