@@ -4,6 +4,12 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 134546,
+        "name": "Mythrax the Unraveler",
+        "screen": "ul_mythrax_hm",
+        "date": "2018-10-15"
+      },
+      {
         "id": 138967,
         "name": "Zul, Reborn",
         "screen": "ul_zul_hm",
