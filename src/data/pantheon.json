@@ -4,6 +4,13 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 132998,
+        "name": "G'huun",
+        "screen": "ul_ghuun_hm",
+        "screen2": "ul_ghuun_nm",
+        "date": "2018-11-05"
+      },
+      {
         "id": 134546,
         "name": "Mythrax the Unraveler",
         "screen": "ul_mythrax_hm",
@@ -44,13 +51,6 @@
         "name": "Taloc",
         "screen": "ul_taloc_hm",
         "date": "2018-09-17"
-      },
-      {
-        "id": 132998,
-        "name": "G'huun",
-        "screen": "ul_ghuun_nm",
-        "screen2": "",
-        "date": ""
       }
     ]
   },
