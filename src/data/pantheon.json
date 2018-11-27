@@ -4,6 +4,12 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 135452,
+        "name": "MOTHER",
+        "screen": "ul_mother_mm",
+        "date": "2018-09-26"
+      },
+      {
         "id": 137119,
         "name": "Taloc",
         "screen": "ul_taloc_mm",
