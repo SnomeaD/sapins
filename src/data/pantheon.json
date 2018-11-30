@@ -4,10 +4,16 @@
     "shortname": "ul",
     "bosses": [
       {
+        "id": 1,
+        "name": "Achievement",
+        "screen": "ul_clean_hf",
+        "date": "2018-11-29"
+      },
+      {
         "id": 135452,
         "name": "MOTHER",
         "screen": "ul_mother_mm",
-        "date": "2018-09-26"
+        "date": "2018-11-26"
       },
       {
         "id": 137119,
