@@ -1,5 +1,23 @@
 [
   {
+    "name": "Battle of Dazar'alor",
+    "shortname": "bod",
+    "bosses": [
+      {
+        "id": 1,
+        "name": "Lady Jaina Proudmoore",
+        "screen": "bod_jaina_nm",
+        "date": "2019-02-11"
+      },
+      {
+        "id": 2,
+        "name": "Grong",
+        "screen": "bod_grong_hm",
+        "date": "2019-02-04"
+      }
+    ]
+  }, 
+  {
     "name": "Uldir",
     "shortname": "ul",
     "bosses": [
