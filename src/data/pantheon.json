@@ -4,22 +4,10 @@
     "shortname": "bod",
     "bosses": [
       {
-        "id": 1,
-        "name": "Lady Jaina Proudmoore",
-        "screen": "bod_jaina_nm",
-        "date": "2019-02-11"
-      },
-      {
-        "id": 12,
-        "name": "Grong",
-        "screen": "bod_grong_hm",
-        "date": "2019-02-04"
-      },
-      {
-        "id": 13,
-        "name": "Jadefire Masters",
-        "screen": "bod_jadefire_hm",
-        "date": "2019-02-18"
+        "id": 15,
+        "name": "Conclave of the Chosen",
+        "screen": "bod_conclave_hm",
+        "date": "2019-02-25"
       },
       {
         "id": 14,
@@ -28,11 +16,23 @@
         "date": "2019-02-21"
       },
       {
-        "id": 15,
-        "name": "Conclave of the Chosen",
-        "screen": "bod_conclave_hm",
-        "date": "2019-02-25"
-      }
+        "id": 13,
+        "name": "Jadefire Masters",
+        "screen": "bod_jadefire_hm",
+        "date": "2019-02-18"
+      },
+      {
+        "id": 12,
+        "name": "Grong",
+        "screen": "bod_grong_hm",
+        "date": "2019-02-04"
+      },
+      {
+        "id": 1,
+        "name": "Lady Jaina Proudmoore",
+        "screen": "bod_jaina_nm",
+        "date": "2019-02-11"
+      }      
     ]
   }, 
   {
