@@ -20,6 +20,18 @@
         "name": "Jadefire Masters",
         "screen": "bod_jadefire_hm",
         "date": "2019-02-18"
+      },
+      {
+        "id": 14,
+        "name": "Opulence",
+        "screen": "bod_opulence_hm",
+        "date": "2019-02-21"
+      },
+      {
+        "id": 15,
+        "name": "Conclave of the Chosen",
+        "screen": "bod_conclave_hm",
+        "date": "2019-02-25"
       }
     ]
   }, 
