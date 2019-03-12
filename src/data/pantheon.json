@@ -4,6 +4,12 @@
     "shortname": "bod",
     "bosses": [
       {
+        "id": 16,
+        "name": "King Rastakhan",
+        "screen": "bod_rastakhan_hm",
+        "date": "2019-03-11"
+      },
+      {
         "id": 15,
         "name": "Conclave of the Chosen",
         "screen": "bod_conclave_hm",
