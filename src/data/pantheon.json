@@ -4,6 +4,12 @@
     "shortname": "bod",
     "bosses": [
       {
+        "id": 17,
+        "name": "Mekkatorque",
+        "screen": "bod_mekkatorque_hm",
+        "date": "2019-03-14"
+      },
+      {
         "id": 16,
         "name": "King Rastakhan",
         "screen": "bod_rastakhan_hm",
