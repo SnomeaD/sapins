@@ -4,11 +4,18 @@
     "shortname": "bod",
     "bosses": [
       {
+        "id": 19,
+        "name": "Lady Jaina Proudmoore",
+        "screen": "bod_jaina_hm",
+        "date": "2019-04-01"
+      },
+      {
         "id": 18,
         "name": "Stormwall Blockade",
         "screen": "bod_blockade_hm",
         "date": "2019-03-18"
-      },      {
+      },
+      {
         "id": 17,
         "name": "Mekkatorque",
         "screen": "bod_mekkatorque_hm",
