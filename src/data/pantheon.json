@@ -1,4 +1,15 @@
-[
+[{
+    "name": "Crusible of Storms",
+    "shortname": "cos",
+    "bosses": [
+      {
+        "id": 1,
+        "name": "Uu'nat, Harbinger of the Void",
+        "screen": "cos_uunat_nm",
+        "date": "2019-04-18"
+      }
+    ]
+  },
   {
     "name": "Battle of Dazar'alor",
     "shortname": "bod",
