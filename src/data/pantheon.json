@@ -4,6 +4,12 @@
     "bosses": [
       {
         "id": 1,
+        "name": "The Restless Cabal",
+        "screen": "cos_cabal_hm",
+        "date": "2019-05-13"
+      },
+      {
+        "id": 2,
         "name": "Uu'nat, Harbinger of the Void",
         "screen": "cos_uunat_nm",
         "date": "2019-04-18"
