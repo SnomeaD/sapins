@@ -1,15 +1,32 @@
 [{
+    "name": "The Eternal Palace",
+    "shortname": "ep",
+    "bosses": [
+      {
+        "id": 1,
+        "name": "Queen Azshara",
+        "screen": "ep_queen_nm",
+        "date": "2019-07-18"
+      }
+    ]
+  },
+  {
     "name": "Crusible of Storms",
     "shortname": "cos",
     "bosses": [
       {
-        "id": 1,
+        "id": 3,
+        "name": "Uu'nat, Harbinger of the Void",
+        "screen": "cos_uunat_hm",
+        "date": "2019-05-28"
+      },{
+        "id": 2,
         "name": "The Restless Cabal",
         "screen": "cos_cabal_hm",
         "date": "2019-05-13"
       },
       {
-        "id": 2,
+        "id": 1,
         "name": "Uu'nat, Harbinger of the Void",
         "screen": "cos_uunat_nm",
         "date": "2019-04-18"
