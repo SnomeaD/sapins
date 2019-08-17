@@ -3,6 +3,42 @@
     "shortname": "ep",
     "bosses": [
       {
+        "id": 7,
+        "name": "The Queen's Court",
+        "screen": "ep_queen_hm",
+        "date": "2019-08-08"
+      },
+      {
+        "id": 6,
+        "name": "Orgozoa",
+        "screen": "ep_orgozoa_hm",
+        "date": "2019-08-05"
+      },
+      {
+        "id": 5,
+        "name": "Lady Ashvane",
+        "screen": "ep_ashvane_hm",
+        "date": "2019-08-05"
+      },
+      {
+        "id": 4,
+        "name": "Radiance of Azshara",
+        "screen": "ep_radiance_hm",
+        "date": "2019-08-05"
+      },
+      {
+        "id": 3,
+        "name": "Blackwater Behemoth",
+        "screen": "ep_behemoth_hm",
+        "date": "2019-08-05"
+      },
+      {
+        "id": 2,
+        "name": "Abyssal Commander Sivara",
+        "screen": "ep_sivara_hm",
+        "date": "2019-07-22"
+      },
+      {
         "id": 1,
         "name": "Queen Azshara",
         "screen": "ep_queen_nm",
