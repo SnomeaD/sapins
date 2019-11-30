@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div id="title" class="container-fluid">
+        <div class="container-fluid">
             <div class="text-center"><img class="img-fluid" src="../img/logo.png"></div>
         </div>
         <div id="content" class="container">
