@@ -31,7 +31,7 @@
     "jquery": "^3.4.1",
     "less": "^3.10.3",
     "less-loader": "^4.1.0",
-    "marked": ">=0.6.1",
+    "marked": ">=4.0.10",
     "mini-css-extract-plugin": "^0.4.5",
     "popper.js": "^1.16.0",
     "postcss-loader": "^3.0.0",
